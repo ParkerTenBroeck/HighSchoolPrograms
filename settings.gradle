@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'HighSchoolProjects'
-include('3D_Test', 'ActuallyPong', 'Asteroids', 'dvd_bouncing_logo', 'I_Will_Eat_Your_Pant', 'Minesweeper', 'RainingBeans')
+include('3D_Test', '4_Color_Gradiant', 'ActuallyPong', 'Asteroids', 'ComplexNumbers', 'dvd_bouncing_logo', 'GCodeCleaner', 'I_Will_Eat_Your_Pant', 'Minesweeper', 'RainingBeans')
