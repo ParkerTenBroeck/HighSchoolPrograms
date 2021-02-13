@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'HighSchoolProjects'
-include('Asteroids', 'ActuallyPong')
+include('3D_Test', 'ActuallyPong', 'Asteroids', 'dvd_bouncing_logo', 'I_Will_Eat_Your_Pant', 'Minesweeper', 'RainingBeans')
